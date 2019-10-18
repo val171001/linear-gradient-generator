@@ -1,0 +1,29 @@
+.logo {
+    display: block;
+    margin: auto;
+    margin-top: 5%;
+    width: 30%;
+}
+  
+  .info > h2 {
+    text-align: center;
+    margin-top: 20px;
+    color: #929197;
+    font-family: "Lato";
+}
+  
+  .info > h3 {
+    text-align: center;
+    margin-top: 20px;
+    color: #929197;
+    opacity: 0.8;
+    font-weight: 300;
+    font-family: "Lato";
+}
+  
+  .twitter-share-button {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
