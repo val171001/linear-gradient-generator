@@ -27,6 +27,7 @@ Execute tests
 ```
 $ yarn lint
 ```
+Lints and auto fixes the code styling according to the settings set at .eslintrc
 ### Run storybooks
 ```
 $ yarn storybook
@@ -38,4 +39,3 @@ Runs story books on http://localhost:6006/?path=/story/gradient-card--simple
 yarn build-storybook
 ```
 Generates static files for the storybooks on folder storybook-static
-Lints and auto fixes the code styling according to the settings set at .eslintrc
